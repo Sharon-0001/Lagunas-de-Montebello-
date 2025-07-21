@@ -14,45 +14,7 @@ Guía de lagunas de Montebello
       margin: 0;
       padding: 0; }
 
-    header {
-      background-color: #00796b;
-      color: white;
-      padding: 20px;
-      text-align: center; }
-
-    nav {
-      background-color: #004d40;
-      text-align: center;
-      padding: 10px; }
-
-    nav a {
-      color: white;
-      text-decoration: none;
-      margin: 0 15px;
-      font-weight: bold; }
-
-    section {
-      padding: 30px;
-      max-width: 1000px;
-      margin: auto;  }
-
-    h2 {
-      color: #00796b;}
-
-    ul {
-      line-height: 1.6;}
-
-    .alerta {
-      background-color: #fff3cd;
-      padding: 10px;
-      margin: 20px 0;
-      border-left: 5px solid #ffc107; }
-
-    footer {
-      background-color: #004d40;
-      color: white;
-      text-align: center;
-      padding: 15px;}
+    
   </style>
 </head>
 <body>
