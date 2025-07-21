@@ -5,16 +5,6 @@ Guía de lagunas de Montebello
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Guía Turística: Lagunas de Montebello</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #eef6f6;
-      color: #333;
-      margin: 0;
-      padding: 0; }
-
-    
   </style>
 </head>
 <body>
